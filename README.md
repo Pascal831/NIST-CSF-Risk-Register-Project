@@ -41,8 +41,7 @@ This project demonstrates the creation of a Governance, Risk, and Compliance (GR
 
 ## 🏗️ Built With
 
-- Excel for risk tracking and dashboards
-- Python (Pandas, OpenPyXL, Matplotlib, FPDF) for automation
+- Excel for risk tracking and dashboard
 - NIST Cybersecurity Framework (CSF)
 
 ---
@@ -53,6 +52,6 @@ This project demonstrates the creation of a Governance, Risk, and Compliance (GR
 - NIST CSF control mapping
 - Compliance documentation
 - Dashboard design and data visualization
-- Report writing and PDF automation
+- Report writing
 
 ---
