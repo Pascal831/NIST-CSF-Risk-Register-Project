@@ -6,11 +6,11 @@ This project demonstrates the creation of a Governance, Risk, and Compliance (GR
 
 ## 📌 Objectives
 
-- Identify and document cybersecurity risks aligned to NIST CSF
-- Assign likelihood, impact, and calculate risk scores
-- Define risk owners and mitigation controls
-- Visualize risks using a heatmap
-- Generate a professional PDF report
+- Identify and document cybersecurity risks aligned to NIST CSF  
+- Assign likelihood, impact, and calculate risk scores  
+- Define risk owners and mitigation controls  
+- Visualize risks using a heatmap  
+- Generate a professional PDF report  
 
 ---
 
@@ -18,10 +18,10 @@ This project demonstrates the creation of a Governance, Risk, and Compliance (GR
 
 | File | Description |
 |------|-------------|
-| `NIST_CSF_Risk_Register.xlsx` | Raw risk register with 10 risks |
-| `Risk_Register_with_Heatmap.xlsx` | Includes conditional formatting heatmap |
-| `risk_heatmap.png` | Visual risk heatmap (Impact × Likelihood) |
-| `NIST_CSF_Risk_Register_Report.pdf` | Complete report with register + heatmap |
+| [`NIST_CSF_Risk_Register.xlsx`](./NIST_CSF_Risk_Register.xlsx) | Raw risk register with 10 risks |
+| [`Risk_Register_with_Heatmap.xlsx`](./Risk_Register_with_Heatmap.xlsx) | Includes conditional formatting heatmap |
+| [`risk_heatmap.png`](./risk_heatmap.png) | Visual risk heatmap (Impact × Likelihood) |
+| [`NIST_CSF_Risk_Register_Report.pdf`](./NIST_CSF_Risk_Register_Report.pdf) | Complete report with register + heatmap |
 
 ---
 
@@ -41,17 +41,15 @@ This project demonstrates the creation of a Governance, Risk, and Compliance (GR
 
 ## 🏗️ Built With
 
-- Excel for risk tracking and dashboard
-- NIST Cybersecurity Framework (CSF)
+- Excel for risk tracking and dashboard  
+- NIST Cybersecurity Framework (CSF)  
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- Risk assessment and scoring
-- NIST CSF control mapping
-- Compliance documentation
-- Dashboard design and data visualization
-- Report writing
-
----
+- Risk assessment and scoring  
+- NIST CSF control mapping  
+- Compliance documentation  
+- Dashboard design and data visualization  
+- Report writing  
