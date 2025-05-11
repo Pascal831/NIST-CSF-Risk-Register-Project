@@ -1,4 +1,3 @@
-# NIST-CSF-Risk-Register-Project
 # 🛡️ NIST CSF-Aligned Risk Register Project
 
 This project demonstrates the creation of a Governance, Risk, and Compliance (GRC) risk register using the **NIST Cybersecurity Framework (CSF)** as a guiding standard. It includes a 10-risk register, visual heatmap, and comprehensive report—all built as part of a hands-on GRC learning lab.
@@ -57,7 +56,3 @@ This project demonstrates the creation of a Governance, Risk, and Compliance (GR
 - Report writing and PDF automation
 
 ---
-
-## 📜 License
-
-This project is for educational purposes. Adapt freely with attribution.
